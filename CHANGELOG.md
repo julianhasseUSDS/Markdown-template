@@ -11,7 +11,6 @@
 - Changed table of contents to start collapsed
 - Added checkboxes for major features on roadmap
 
-
 ### Removed
 
 - Some packages/libraries from acknowledgements I no longer use
